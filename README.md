@@ -5,9 +5,10 @@ Tổng quan dự án: Xây dựng cơ sở dữ liệu và viết các API (bắ
 
 #
 1. Tạo file ConnectionString.txt ở thư mục Data và paste data source vào
+
 Ví dụ: Data Source=NGOLINH-LT\SQLEXPRESS;Initial Catalog=Database;Integrated Security=True
 #
-2. Update database.
+2. Update database (https://www.entityframeworktutorial.net/efcore/entity-framework-core-migration.aspx)
 
 ![image](https://user-images.githubusercontent.com/74759189/150667828-f22d6a0a-323c-48dc-a814-e3fd02a358b7.png)
 #
