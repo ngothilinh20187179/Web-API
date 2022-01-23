@@ -1,0 +1,3 @@
+﻿
+Cách đánh dấu tình trạng API
+// W<số tuần> (<tên người làm> / <C_omplete/F_ull/P_artial/Request R_eview/Request C_hange>)
